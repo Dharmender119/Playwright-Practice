@@ -130,3 +130,5 @@ validateAge(20);
 validateAge(17);
 validateAge(18);
 
+console.log("Git Practice")
+
